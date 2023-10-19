@@ -58,6 +58,10 @@
     display: none;
 }
 
+.opcoes{
+    display: none;
+}
+
   @media screen and (min-width: 1024px) {
 .titulo__cabecalho{
     font-size: 60px;
